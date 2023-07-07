@@ -3,8 +3,6 @@
   * Users can also see tickets booked by them and also can find the user details of the user holding a particular ticket. 
   * This system consists of a backend and frontend API.
   * Some Images are related to pages of the frontend system in the Images folder.
-   
-![alt text](https://github.com/yashtiwari1906/Ticket_Management_System/blob/main/Images/Demo.gif)
 
 ### frontend 
     * This folder contains the frontend part of the application, developed in React JS.
